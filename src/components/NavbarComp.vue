@@ -47,15 +47,40 @@ const isActive = (routeName) => {
                     <BurgerIcon />
                 </div>
                 <ul tabindex="0" class="menu menu-sm dropdown-content burger-ul">
-                    <li><a>Item 1</a></li>
-                    <li>
-                        <a>Parent</a>
-                        <ul class="p-2">
-                            <li><a>Submenu 1</a></li>
-                            <li><a>Submenu 2</a></li>
-                        </ul>
+                    <li :class="{ active: isActive('/home') }">
+                        <router-link to="/home"
+                            ><span class="text-primary">#</span>Home</router-link
+                        >
                     </li>
-                    <li><a>Item 3</a></li>
+                    <li>
+                        <details>
+                            <summary :class="{ active: isActive('/project') || isActive('/exp') }">
+                                <span class="text-primary">#</span>Works
+                            </summary>
+                            <ul class="p-2">
+                                <li :class="{ active: isActive('/project') }">
+                                    <router-link to="/project"
+                                        ><span class="text-primary">#</span>Projects</router-link
+                                    >
+                                </li>
+                                <li :class="{ active: isActive('/exp') }">
+                                    <router-link to="/exp"
+                                        ><span class="text-primary">#</span>Experiences</router-link
+                                    >
+                                </li>
+                            </ul>
+                        </details>
+                    </li>
+                    <li :class="{ active: isActive('/about') }">
+                        <router-link to="/about"
+                            ><span class="text-primary">#</span>About-Me</router-link
+                        >
+                    </li>
+                    <li :class="{ active: isActive('/contact') }">
+                        <router-link to="/contact"
+                            ><span class="text-primary">#</span>Contacts</router-link
+                        >
+                    </li>
                     <hr class="my-2" />
                     <div class="burger-social">
                         <div class="btn btn-ghost btn-square btn-sm">
@@ -78,7 +103,7 @@ const isActive = (routeName) => {
             </div>
             <!-- burger end -->
             <!-- navbar lg -->
-            <ul class="menu menu-horizontal px-1 hidden lg:flex">
+            <ul class="hidden px-1 menu menu-horizontal lg:flex">
                 <li :class="{ active: isActive('/home') }">
                     <router-link to="/home"><span class="text-primary">#</span>Home</router-link>
                 </li>
