@@ -21,6 +21,39 @@ const isActive = (routeName) => {
     <div class="navbar bg-base-100 font-fira-code">
         <!-- navbar start  -->
         <div class="navbar-start">
+            <!-- social chandelier -->
+            <div class="chan">
+                <hr class="chan-hr" />
+                <div class="chan-icon">
+                    <div class="btn btn-ghost btn-square btn-sm">
+                        <a
+                            href="https://github.com/azkacrows"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            <GithubIcon />
+                        </a>
+                    </div>
+                    <div class="btn btn-ghost btn-square btn-sm">
+                        <a
+                            href="https://discord.com/users/461921367609049090"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            <DiscordIcon />
+                        </a>
+                    </div>
+                    <div class="btn btn-ghost btn-square btn-sm">
+                        <a
+                            href="https://www.linkedin.com/in/azkacrows/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            <LinkedinIcon />
+                        </a>
+                    </div>
+                </div>
+            </div>
             <a class="hidden text-xl btn betton lg:flex">daisyUI</a>
             <div class="tema-mobile">
                 <label class="swap swap-rotate">
@@ -84,19 +117,31 @@ const isActive = (routeName) => {
                     <hr class="my-2" />
                     <div class="burger-social">
                         <div class="btn btn-ghost btn-square btn-sm">
-                            <GithubIcon>
-                                <a href="http://" target="_blank" rel="noopener noreferrer"></a>
-                            </GithubIcon>
+                            <a
+                                href="https://github.com/azkacrows"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                <GithubIcon />
+                            </a>
                         </div>
                         <div class="btn btn-ghost btn-square btn-sm">
-                            <DiscordIcon>
-                                <a href="http://" target="_blank" rel="noopener noreferrer"></a>
-                            </DiscordIcon>
+                            <a
+                                href="https://discord.com/users/461921367609049090"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                <DiscordIcon />
+                            </a>
                         </div>
                         <div class="btn btn-ghost btn-square btn-sm">
-                            <LinkedinIcon>
-                                <a href="http://" target="_blank" rel="noopener noreferrer"></a>
-                            </LinkedinIcon>
+                            <a
+                                href="https://www.linkedin.com/in/azkacrows/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                <LinkedinIcon />
+                            </a>
                         </div>
                     </div>
                 </ul>
@@ -149,6 +194,15 @@ const isActive = (routeName) => {
 </template>
 
 <style scoped>
+.chan {
+    @apply absolute top-0 flex-col items-center gap-2 left-3 hidden lg:inline-flex;
+}
+.chan .chan-hr {
+    @apply w-px h-[7.5rem] border-0 bg-[#cfd0d2];
+}
+.chan .chan-icon {
+    @apply flex flex-col items-center;
+}
 .betton {
     @apply bg-inherit outline-none border-transparent shadow-none;
 }
@@ -167,7 +221,7 @@ const isActive = (routeName) => {
 
 /* style sebelumnya */
 .active {
-    @apply text-white;
+    @apply text-secondary;
 }
 
 .menu :where(li:not(.menu-title) > *:not(ul, details, .menu-title, .btn)),

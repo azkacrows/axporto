@@ -1,11 +1,7 @@
-<script setup>
-import HeroComp from '@/components/HeroComp.vue';
-</script>
+<script setup></script>
 
 <template>
-    <main>
-        <HeroComp />
-    </main>
+    <main></main>
 </template>
 
 <style></style>

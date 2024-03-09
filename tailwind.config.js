@@ -15,14 +15,15 @@ export default {
             {
                 ax: {
                     primary: '#C778DD',
+                    secondary: '#FFFFFF',
                     neutral: '#ABB2BF',
                     'base-100': '#282C33',
                 },
                 id: {
                     primary: '#E4171E',
-                    secondary: '#B40D1B',
+                    secondary: '#8D99AE',
                     neutral: '#FFFFFF',
-                    'base-100': '#F2ECE9',
+                    'base-100': '#EDF2F4',
                 },
             },
         ],
