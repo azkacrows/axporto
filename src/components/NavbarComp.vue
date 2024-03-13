@@ -54,7 +54,7 @@ const isActive = (routeName) => {
                     </div>
                 </div>
             </div>
-            <a class="hidden text-xl btn betton lg:flex">daisyUI</a>
+            <a class="hidden text-xl btn betton lg:flex lg:p-0">daisyUI</a>
             <div class="tema-mobile">
                 <label class="swap swap-rotate">
                     <!-- this hidden checkbox controls the state -->

@@ -1,13 +1,13 @@
 <template>
     <div class="hero bg-base-200">
-        <div class="flex-col hero-content lg:flex-row-reverse">
-            <div class="lg:w-3/4">
+        <div class="flex-col hero-content lg:flex-row">
+            <div>
                 <h1 class="text-5xl font-bold">Box Office News!</h1>
                 <p class="py-6">
                     Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi
                     exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.
                 </p>
-                <button class="btn btn-primary">Get Started</button>
+                <button class="text-white btn btn-primary">Get Started</button>
             </div>
             <div class="lg:w-1/4">
                 <img
