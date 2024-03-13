@@ -54,7 +54,9 @@ const isActive = (routeName) => {
                     </div>
                 </div>
             </div>
-            <a class="hidden text-xl btn betton lg:flex">daisyUI</a>
+            <a class="hidden text-xl btn betton lg:flex"
+                >Jamal<span class="text-primary">Luthfi</span></a
+            >
             <div class="tema-mobile">
                 <label class="swap swap-rotate">
                     <!-- this hidden checkbox controls the state -->
@@ -69,7 +71,9 @@ const isActive = (routeName) => {
         <!-- end navbar start  -->
         <!-- navbar center  -->
         <div class="navbar-center">
-            <a class="text-xl btn betton lg:hidden">daisyUI</a>
+            <a class="text-xl btn betton lg:hidden"
+                >Jamal<span class="text-primary">Luthfi</span></a
+            >
         </div>
         <!-- end navbar center  -->
         <!-- navbar end  -->
@@ -204,7 +208,7 @@ const isActive = (routeName) => {
     @apply flex flex-col items-center;
 }
 .betton {
-    @apply bg-inherit outline-none border-transparent shadow-none;
+    @apply bg-inherit outline-none border-transparent shadow-none gap-0;
 }
 .tema-desktop {
     @apply items-center hidden lg:flex cursor-pointer gap-2;
