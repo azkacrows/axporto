@@ -54,7 +54,7 @@ const isActive = (routeName) => {
                     </div>
                 </div>
             </div>
-            <a class="hidden text-xl btn betton lg:flex"
+            <a class="hidden text-xl btn betton lg:flex lg:p-0"
                 >Jamal<span class="text-primary">Luthfi</span></a
             >
             <div class="tema-mobile">
