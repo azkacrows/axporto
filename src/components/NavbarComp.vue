@@ -61,10 +61,10 @@ const isActive = (routeName) => {
                 <label class="swap swap-rotate">
                     <!-- this hidden checkbox controls the state -->
                     <input type="checkbox" class="theme-controller" value="id" />
-                    <!-- sun icon -->
-                    <MobileSunIcon />
                     <!-- moon icon -->
                     <MobileMoonIcon />
+                    <!-- sun icon -->
+                    <MobileSunIcon />
                 </label>
             </div>
         </div>
@@ -187,9 +187,9 @@ const isActive = (routeName) => {
                 </li>
             </ul>
             <div class="tema-desktop">
-                <SunIcon />
-                <input type="checkbox" value="id" class="toggle toggle-sm theme-controller" />
                 <MoonIcon />
+                <input type="checkbox" value="id" class="toggle toggle-sm theme-controller" />
+                <SunIcon />
             </div>
             <!-- end navbar lg -->
         </div>
