@@ -61,10 +61,10 @@ const isActive = (routeName) => {
                 <label class="swap swap-rotate">
                     <!-- this hidden checkbox controls the state -->
                     <input type="checkbox" class="theme-controller" value="id" />
-                    <!-- moon icon -->
-                    <MobileMoonIcon />
                     <!-- sun icon -->
                     <MobileSunIcon />
+                    <!-- moon icon -->
+                    <MobileMoonIcon />
                 </label>
             </div>
         </div>
