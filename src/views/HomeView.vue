@@ -3,9 +3,7 @@ import HeroComp from '@/components/HeroComp.vue';
 </script>
 
 <template>
-    <main>
-        <HeroComp />
-    </main>
+    <HeroComp />
 </template>
 
 <style></style>

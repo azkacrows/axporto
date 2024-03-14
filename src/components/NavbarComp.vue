@@ -84,14 +84,19 @@ const isActive = (routeName) => {
                     <BurgerIcon />
                 </div>
                 <ul tabindex="0" class="menu menu-sm dropdown-content burger-ul">
-                    <li :class="{ active: isActive('/home') }">
-                        <router-link to="/home"
-                            ><span class="text-primary">#</span>Home</router-link
-                        >
+                    <li :class="{ active: isActive('/') }">
+                        <router-link to="/"><span class="text-primary">#</span>Home</router-link>
                     </li>
                     <li>
                         <details>
-                            <summary :class="{ active: isActive('/project') || isActive('/exp') }">
+                            <summary
+                                :class="{
+                                    active:
+                                        isActive('/project') ||
+                                        isActive('/exp') ||
+                                        isActive('/cert'),
+                                }"
+                            >
                                 <span class="text-primary">#</span>Works
                             </summary>
                             <ul class="p-2">
@@ -103,6 +108,12 @@ const isActive = (routeName) => {
                                 <li :class="{ active: isActive('/exp') }">
                                     <router-link to="/exp"
                                         ><span class="text-primary">#</span>Experiences</router-link
+                                    >
+                                </li>
+                                <li :class="{ active: isActive('/cert') }">
+                                    <router-link to="/cert"
+                                        ><span class="text-primary">#</span
+                                        >Certifications</router-link
                                     >
                                 </li>
                             </ul>
@@ -152,13 +163,18 @@ const isActive = (routeName) => {
             </div>
             <!-- burger end -->
             <!-- navbar lg -->
-            <ul class="hidden px-1 menu menu-horizontal lg:flex">
-                <li :class="{ active: isActive('/home') }">
-                    <router-link to="/home"><span class="text-primary">#</span>Home</router-link>
+            <ul class="z-50 hidden px-1 menu menu-horizontal lg:flex">
+                <li :class="{ active: isActive('/') }">
+                    <router-link to="/"><span class="text-primary">#</span>Home</router-link>
                 </li>
                 <li>
                     <details>
-                        <summary :class="{ active: isActive('/project') || isActive('/exp') }">
+                        <summary
+                            :class="{
+                                active:
+                                    isActive('/project') || isActive('/exp') || isActive('/cert'),
+                            }"
+                        >
                             <span class="text-primary">#</span>Works
                         </summary>
                         <ul class="p-2">
@@ -170,6 +186,11 @@ const isActive = (routeName) => {
                             <li :class="{ active: isActive('/exp') }">
                                 <router-link to="/exp"
                                     ><span class="text-primary">#</span>Experiences</router-link
+                                >
+                            </li>
+                            <li :class="{ active: isActive('/cert') }">
+                                <router-link to="/cert"
+                                    ><span class="text-primary">#</span>Certifications</router-link
                                 >
                             </li>
                         </ul>

@@ -1,7 +1,8 @@
 <template>
-    <div class="hero bg-base-200">
+    <div class="min-h-full hero bg-base-200">
         <div class="flex-col hero-content lg:flex-row">
-            <div>
+            <div class="lg:w-7/12">
+                <p class="">Hey! I’m Jamal 👋</p>
                 <h1 class="text-5xl font-bold">Box Office News!</h1>
                 <p class="py-6">
                     Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi
@@ -9,7 +10,7 @@
                 </p>
                 <button class="text-white btn btn-primary">Get Started</button>
             </div>
-            <div class="lg:w-1/4">
+            <div class="lg:w-5/12">
                 <img
                     src="https://daisyui.com/images/stock/photo-1635805737707-575885ab0820.jpg"
                     class="max-w-sm rounded-lg shadow-2xl"
