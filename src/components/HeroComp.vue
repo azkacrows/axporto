@@ -1,13 +1,21 @@
 <template>
-    <div class="min-h-full hero bg-base-200">
-        <div class="flex-col hero-content lg:flex-row">
+    <div class="min-h-full hero bg-base-100 lg:mt-12 font-fira-code">
+        <div class="flex-col justify-between hero-content lg:flex-row">
+            <!-- left side -->
             <div class="lg:w-7/12">
-                <p class="">Hey! I’m Jamal 👋</p>
-                <h1 class="text-5xl font-bold">Box Office News!</h1>
-                <p class="py-6">
-                    Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi
-                    exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.
+                <p class="mb-6 text-xl font-semibold lg:my-6 text-secondary">Hey! I’m Jamal 👋</p>
+                <h1 class="text-2xl font-semibold text-accent">
+                    A junior <span class="text-primary">front-end developer</span> who loves
+                    <span class="text-primary">Web Development</span>.
+                </h1>
+                <p class="hidden py-6 lg:flex">
+                    Welcome to the Canvas of Innovation! It's great to have you here. If you love
+                    all things art, design, and code — you're in the right place.
                 </p>
+                <p class="py-6 lg:hidden">
+                    He crafts responsive websites where technologies meet creativity
+                </p>
+
                 <button class="text-white btn btn-primary">Get Started</button>
             </div>
             <div class="lg:w-5/12">

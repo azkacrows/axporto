@@ -15,3 +15,13 @@ import NavbarComp from './components/NavbarComp.vue';
 </template>
 
 <style scoped></style>
+<style>
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+</style>
