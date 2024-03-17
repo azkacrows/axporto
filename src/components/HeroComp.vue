@@ -1,3 +1,7 @@
+<script setup>
+import { RouterLink } from 'vue-router';
+</script>
+
 <template>
     <div class="min-h-full hero bg-base-100 lg:mt-12 font-fira-code">
         <div class="flex-col justify-between hero-content lg:flex-row">
@@ -16,14 +20,22 @@
                     He crafts responsive websites where technologies meet creativity
                 </p>
 
-                <button class="text-white btn btn-primary">Get Started</button>
+                <router-link to="/contact">
+                    <button class="btn betton">Let's Talk!!</button>
+                </router-link>
             </div>
-            <div class="lg:w-5/12">
+            <div class="lg:w-5/12 flex items-center justify-end">
                 <img
                     src="https://daisyui.com/images/stock/photo-1635805737707-575885ab0820.jpg"
-                    class="max-w-sm rounded-lg shadow-2xl"
+                    class="max-w-sm rounded-lg shadow-2xl items-end"
                 />
             </div>
         </div>
     </div>
 </template>
+
+<style scoped>
+.betton {
+    @apply text-base text-accent bg-inherit font-medium font-fira-code rounded-none border-primary hover:border-primary active:text-accent/60 active:border-primary/50 hidden lg:flex;
+}
+</style>
