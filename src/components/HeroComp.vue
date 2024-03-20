@@ -1,5 +1,7 @@
 <script setup>
 import { RouterLink } from 'vue-router';
+
+import PhotoBGIcon from './icons/PhotoBGIcon.vue';
 </script>
 
 <template>
@@ -24,11 +26,13 @@ import { RouterLink } from 'vue-router';
                     <button class="btn betton">Let's Talk!!</button>
                 </router-link>
             </div>
-            <div class="lg:w-5/12 flex items-center justify-end">
-                <img
-                    src="https://daisyui.com/images/stock/photo-1635805737707-575885ab0820.jpg"
-                    class="max-w-sm rounded-lg shadow-2xl items-end"
-                />
+            <div class="lg:w-5/12">
+                <div>
+                    <img
+                        src="https://daisyui.com/images/stock/photo-1635805737707-575885ab0820.jpg"
+                        class="items-end max-w-sm rounded-lg shadow-2xl"
+                    />
+                </div>
             </div>
         </div>
     </div>

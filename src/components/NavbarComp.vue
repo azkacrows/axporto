@@ -54,8 +54,8 @@ const isActive = (routeName) => {
                     </div>
                 </div>
             </div>
-            <a class="hidden text-xl btn betton lg:flex lg:p-1"
-                >Jamal<span class="text-primary">Luthfi</span></a
+            <routerLink to="/" class="hidden text-xl btn betton lg:flex lg:p-1"
+                >Jamal<span class="text-primary">Luthfi</span></routerLink
             >
             <div class="tema-mobile">
                 <label class="swap swap-rotate">
