@@ -1,19 +1,23 @@
 <!-- eslint-disable vue/no-parsing-error -->
+<script setup></script>
 <template>
-    <!-- FIXME : Project Pages  -->
-    <!-- project header -->
-    <div class="flex flex-row items-center gap-4 font-fira-code">
-        <div class="flex flex-row items-center justify-between w-2/3 gap-4">
-            <h2 class="pl-4 text-2xl font-semibold lg:pl-0 text-accent">
-                <span class="text-primary">#</span>Projects
-            </h2>
-            <hr class="w-full h-px border-0 bg-primary/30" />
-        </div>
-        <div class="flex justify-end w-1/3">
-            <router-link to="/project" class="btn view">View All ~~></router-link>
+    <!-- Project header -->
+    <div class="mt-12">
+        <div class="flex flex-row items-center font-fira-code">
+            <div
+                class="flex flex-col items-center justify-between w-full gap-4 lg:pl-4 lg:items-start"
+            >
+                <h2 class="text-4xl font-semibold lg:pl-0 text-accent">
+                    <span class="text-primary">/</span>projects
+                </h2>
+                <p>List of my projects</p>
+            </div>
         </div>
     </div>
-    <!-- project Content -->
+    <!-- Project Content -->
+    <!-- <div
+        class="flex flex-col items-center justify-between gap-4 px-4 my-10 lg:gap-0 lg:flex-row font-fira-code"
+    ></div> -->
     <div class="flex flex-col items-center justify-between my-10 font-fira-code">
         <!-- project at Desktop -->
         <div class="hidden grid-cols-3 gap-4 lg:grid font-fira-code">

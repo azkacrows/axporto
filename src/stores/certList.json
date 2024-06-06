@@ -1,0 +1,556 @@
+[
+    {
+        "folder": "Sertifikasi",
+        "KontenFolder": [
+            {
+                "folder": "Bootcamp",
+                "KontenFolder": [
+                    {
+                        "folder": "Cisco",
+                        "Sertifikat": [
+                            {
+                                "Judul": "Introduction to Cybersecurity",
+                                "Date": "25-01-2024",
+                                "Url": "https://drive.google.com/file/d/1Qbd3AoW2Fp-cdbJwplMSdQs1z8RhLNdX/view"
+                            },
+                            {
+                                "Judul": "Networking Basics",
+                                "Date": "30-01-2024",
+                                "Url": "https://drive.google.com/file/d/13UY1iUrwCqWi2Gd31zdVtFcyU5-ECfqv/view"
+                            },
+                            {
+                                "Judul": "Networking Devices and Initial Configuration",
+                                "Date": "31-01-2024",
+                                "Url": "https://drive.google.com/file/d/1Qzcq2aEaJm4wmdatukx-IJmKyHNL_TjJ/view"
+                            }
+                        ]
+                    },
+                    {
+                        "folder": "Dicoding",
+                        "Sertifikat": [
+                            {
+                                "Judul": "Belajar Dasar Pemrograman Web",
+                                "Date": "22-07-2023",
+                                "Url": "https://drive.google.com/file/d/1G2m_S1olZHGR_5Y8F-2gd6F-eT9-Fzsy/view"
+                            },
+                            {
+                                "Judul": "Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)",
+                                "Date": "04-02-2023",
+                                "Url": "https://drive.google.com/file/d/1YWrpq0IBHHAoUQuplaLA9D7fr8EZ5dO7/view"
+                            },
+                            {
+                                "Judul": "Belajar Dasar Pemrograman JavaScript",
+                                "Date": "25-05-2023",
+                                "Url": "https://drive.google.com/file/d/1-Gq6E6gNcnQKLtF73BtKsgY3MS4DeG5b/view"
+                            },
+                            {
+                                "Judul": "Belajar Membuat Aplikasi Back-End untuk Pemula",
+                                "Date": "11-06-2023",
+                                "Url": "https://drive.google.com/file/d/1wBpJE1SxXem9RUXzT1_wY702EA9zUzZ_/view"
+                            },
+                            {
+                                "Judul": "Belajar Membuat Front-End Web untuk Pemula",
+                                "Date": "18-10-2023",
+                                "Url": "https://drive.google.com/file/d/1ZWPgh5GxPk1wusZzEeqK45wb5sTAuqbl/view"
+                            },
+                            {
+                                "Judul": "Belajar Dasar-Dasar DevOps",
+                                "Date": "16-01-2023",
+                                "Url": "https://drive.google.com/file/d/13arIbYDCuYzJ4TCNl25awgmqyhKW_4kX/view"
+                            },
+                            {
+                                "Judul": "Belajar Jaringan Komputer untuk Pemula",
+                                "Date": "14-12-2022",
+                                "Url": "https://drive.google.com/file/d/1YKC5_4Py36Bh2lbIWlFwWzTPLNuQKM-v/view"
+                            }
+                        ]
+                    },
+                    {
+                        "folder": "Coursera",
+                        "kontenFolder": [
+                            {
+                                "folder": "main",
+                                "Sertifikat": [
+                                    {
+                                        "Judul": "IT Support Google",
+                                        "Date": "21-06-2022",
+                                        "Url": "https://drive.google.com/file/d/1qD3moCyRQwwhbTFAptaWDEElmAXENc89/view"
+                                    }
+                                ]
+                            },
+                            {
+                                "folder": "penunjang",
+                                "Sertifikat": [
+                                    {
+                                        "Judul": "Keamanan IT: Pertahanan terhadap Kejahatan Digital",
+                                        "Date": "21-06-2022",
+                                        "Url": "https://drive.google.com/file/d/1pRev0aukFJ42lVeE472qaObEau-fEx9u/view"
+                                    },
+                                    {
+                                        "Judul": "Dasar-Dasar Dukungan Teknis",
+                                        "Date": "10-06-2022",
+                                        "Url": "https://drive.google.com/file/d/1E6_rstneg9125xz7VR_VADcKx6BQXdZv/view"
+                                    },
+                                    {
+                                        "Judul": "Sistem Operasi dan Anda: Menjadi Pengguna yang Berdaya",
+                                        "Date": "19-06-2022",
+                                        "Url": "https://drive.google.com/file/d/1Mwdcna7RsCy3Olr1nK8yQxv_BJPlpfYb/view"
+                                    },
+                                    {
+                                        "Judul": "Seluk Beluk Jaringan Komputer",
+                                        "Date": "18-06-2022",
+                                        "Url": "https://drive.google.com/file/d/1tXiP1Yu6IwLq3npcGzu-zS0VzTHT6J4R/view"
+                                    },
+                                    {
+                                        "Judul": "Administrasi Sistem dan Layanan Infrastruktur TI",
+                                        "Date": "21-06-2022",
+                                        "Url": "https://drive.google.com/file/d/1ieLq7L4Cd5QVBuH2rtteFfbsNsEo4A2L/view"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "folder": "Hacktiv8",
+                        "Sertifikat": [
+                            {
+                                "Judul": "Belajar Langkah Fundamental Untuk Menjadi Web Programmer",
+                                "Date": "28-11-2022",
+                                "Url": "https://drive.google.com/file/d/13-WJLnYc-RusD7sKDYGhDbjj5YN0AX-N/view"
+                            }
+                        ]
+                    },
+                    {
+                        "folder": "Alterra",
+                        "Sertifikat": [
+                            {
+                                "Judul": "Pelatihan Softskill",
+                                "Date": "08-07-2022",
+                                "Url": "https://drive.google.com/file/d/1kux5NRA1vPGe9TKk4ynCcYiM6TiOV8hY/view"
+                            },
+                            {
+                                "Judul": "Web Programming Aditionals Course",
+                                "Date": "28-09-2022",
+                                "Url": "https://drive.google.com/file/d/10WSwPAe0GEYprk4ezlE3JvtiVd5qju-4/view"
+                            }
+                        ]
+                    },
+                    {
+                        "folder": "MySkill",
+                        "kontenFolder": [
+                            {
+                                "folder": "main",
+                                "Sertifikat": [
+                                    {
+                                        "Judul": "Website Development",
+                                        "Date": "19-09-2023",
+                                        "Url": "https://drive.google.com/file/d/1gtv8igatienu5Ii-415zutfy3hI8hevw/view"
+                                    },
+                                    {
+                                        "Judul": "Front End - HTML",
+                                        "Date": "10-05-2023",
+                                        "Url": "https://drive.google.com/file/d/19Bx6d3axr2HR38lmEEkAk72a9v_RNyDF/view"
+                                    },
+                                    {
+                                        "Judul": "Front End - CSS",
+                                        "Date": "27-05-2023",
+                                        "Url": "https://drive.google.com/file/d/1gcHienkROLklBI96lvqD-_9KulOig_WJ/view"
+                                    },
+                                    {
+                                        "Judul": "Front End - JavaScript",
+                                        "Date": "13-09-2023",
+                                        "Url": "https://drive.google.com/file/d/1CIu_w2IAYmcFhYpfsyeW9_bPlK_L9pmu/view"
+                                    },
+                                    {
+                                        "Judul": "Front End - React JS",
+                                        "Date": "15-09-2023",
+                                        "Url": "https://drive.google.com/file/d/1knR6-zizbUILdAskEC2eqbYzYNUHLvlh/view"
+                                    },
+                                    {
+                                        "Judul": "Back end - Basic Golang",
+                                        "Date": "19-09-2023",
+                                        "Url": "https://drive.google.com/file/d/1s0Wwhu-AgbGxPpMsZg51B7r1eUrkjKF4/view"
+                                    },
+                                    {
+                                        "Judul": "Back end - Advanced Golang",
+                                        "Date": "19-09-2023",
+                                        "Url": "https://drive.google.com/file/d/1jlyBO5tGTmuSgLhFeKGDX2s89lIxy3nl/view"
+                                    }
+                                ]
+                            },
+                            {
+                                "folder": "penunjang",
+                                "kontenFolder": [
+                                    {
+                                        "folder": "HTML",
+                                        "Sertifikat": [
+                                            {
+                                                "Judul": "Form in Profile Page",
+                                                "Date": "30-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1FRZxIxaUCewz6EsXrWuPYssqaBettK_p/view"
+                                            },
+                                            {
+                                                "Judul": "Html Attributes And Block Elements",
+                                                "Date": "26-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1rdipgocjcYvF5dNcRYJHRKZYAZtG1wPU/view"
+                                            },
+                                            {
+                                                "Judul": "Html Classes and Id",
+                                                "Date": "04-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1M9lNLecS8ZEVp_zmsu91ZrGykPiAAMAe/view"
+                                            },
+                                            {
+                                                "Judul": "HTML Images and Formatted Text",
+                                                "Date": "26-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1brfKBQtG2GbHB9SbrX6n2Gu30B6NnaZ0/view"
+                                            },
+                                            {
+                                                "Judul": "HTML Introduction",
+                                                "Date": "26-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1NZKxv-tqNwhWQhs4RLUNLDIXNABYTA0w/view"
+                                            },
+                                            {
+                                                "Judul": "HTML Media",
+                                                "Date": "30-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1SqrWxQcigJ83tSnw46-A7jbkIOgRIOq4/view"
+                                            },
+                                            {
+                                                "Judul": "HTML Style and Colors",
+                                                "Date": "30-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1ruEV0HCTVWdf8wInjppW5ACi4rRF1vE8/view"
+                                            },
+                                            {
+                                                "Judul": "Inline Formatting Text",
+                                                "Date": "26-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1hYIpBn4_6PzJhJXkLyqfPhY-UAp24KY5/view"
+                                            },
+                                            {
+                                                "Judul": "Internet Introduction",
+                                                "Date": "25-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1kny5-wYrCF6Ifywju70JMxNgIbyGSZBz/view"
+                                            },
+                                            {
+                                                "Judul": "Practice Making a To Do List Website",
+                                                "Date": "30-03-2023",
+                                                "Url": "https://drive.google.com/file/d/12EFQC473VRXSQi0eaBng5ughL_orZlHE/view"
+                                            },
+                                            {
+                                                "Judul": "Semantic HTML and Generic Element",
+                                                "Date": "30-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1NnkM5xAdX5rSNokDjcrNXec3JjiUlA8_/view"
+                                            },
+                                            {
+                                                "Judul": "Table in Profile Page",
+                                                "Date": "30-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1ugo489L5Oa4Uc8ta0QXGLHtpfWnSi8ux/view"
+                                            },
+                                            {
+                                                "Judul": "Tools Installation",
+                                                "Date": "26-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1bnVNOIp4c7nSa3eciST6aK4AVvQhEdiZ/view"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "folder": "penunjang",
+                                "kontenFolder": [
+                                    {
+                                        "folder": "CSS3",
+                                        "Sertifikat": [
+                                            {
+                                                "Judul": "CSS Animation",
+                                                "Date": "04-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1unpsfrCM2XSO2rVaaBD2C5uGhhGdd0JP/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Background",
+                                                "Date": "05-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1A1ICGsfN0DDgaC6bcn4EgX-_-tqlTrVo/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Blend Mode",
+                                                "Date": "05-08-2023",
+                                                "Url": "https://drive.google.com/file/d/125Aj-ptrHyxaZT9TeL5PcJ4QsWXk5FFw/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Borders",
+                                                "Date": "04-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1k-rNYwthW17F-v4J5qfnUABor-jvb7E8/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Box model 1",
+                                                "Date": "31-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1Xv_Wey3F2NtK5DLp9Evh12wBkLA-_4TQ/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Box model 2",
+                                                "Date": "31-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1I_wLCxBNYVKrX8sck1kl-bf3qbA_mjDo/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Cascade",
+                                                "Date": "31-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1faFXkY1f0qV0a8lhLZ5aUVBBRcnORErl/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Colors",
+                                                "Date": "01-04-2023",
+                                                "Url": "https://drive.google.com/file/d/1t3-AN5RrHDD4kX5N0DDO5bVAn3MpVmSx/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Filters",
+                                                "Date": "04-08-2023",
+                                                "Url": "https://drive.google.com/file/d/10R2Ty5qka3mX9OzXLkpkFyKJQN9YmZ-e/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Focus",
+                                                "Date": "04-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1BzX6WMbvp-1shpVpX_P-LVs0P1VIHe0z/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Functions",
+                                                "Date": "04-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1YLwEgqxp678h9O35tvqkh_rh1tbDt5xd/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Gradient",
+                                                "Date": "04-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1eEPbaWWtu20JiTVbFVqRw6bsDmAIb3vV/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Inheritance",
+                                                "Date": "01-04-2023",
+                                                "Url": "https://drive.google.com/file/d/1ryLPdP2rNI0juxqmd7Y2wRiqaMYPaPJ8/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Layout",
+                                                "Date": "04-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1sBnbccZ_f5s-L7gfMYFr7O66D2EdL166/view"
+                                            },
+                                            {
+                                                "Judul": "CSS List",
+                                                "Date": "05-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1CNQoP5pl-E8QSfg98MzIB6yMfMLMvHLk/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Mini Project",
+                                                "Date": "07-04-2023",
+                                                "Url": "https://drive.google.com/file/d/1mJv0geVzpwUHy0d8SeeeSaVEIB5fJZjw/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Overflow",
+                                                "Date": "05-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1vKv79niE6mrn8i511DTkwSuZa0A9QnLj/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Pseudo-class",
+                                                "Date": "01-04-2023",
+                                                "Url": "https://drive.google.com/file/d/1jQy--GH6moSaDgSLCfUSu7UxThrEpN-P/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Pseudo-element",
+                                                "Date": "01-04-2023",
+                                                "Url": "https://drive.google.com/file/d/1F19FIv8yMD-6agHHV-ss12uuzKAtEIT-/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Selector",
+                                                "Date": "31-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1D5_MV5twBFzwDiW0KVbQBZYN8U6MRQYh/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Shadow",
+                                                "Date": "04-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1_XKHXi7KW6rpZoQSwmrFOS4zowOBsCt7/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Sizing Units",
+                                                "Date": "01-04-2023",
+                                                "Url": "https://drive.google.com/file/d/1dLxZa9dXefz5n22sl_RqntpKHZTjHYKl/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Spacing",
+                                                "Date": "31-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1y7cNiJfMacCscOvamfy0xOknM4QM5yF0/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Text and Typography",
+                                                "Date": "05-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1PTxt46EVQCTHXVR7XBqW-HSD9AJ68Hqw/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Transition",
+                                                "Date": "05-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1vV636WVN28qprR4fhIOVYG6Rp_ToAok0/view"
+                                            },
+                                            {
+                                                "Judul": "CSS Z-Index",
+                                                "Date": "04-08-2023",
+                                                "Url": "https://drive.google.com/file/d/1Uq6ebdDo2dbXfN0QQynQpTy3B3M1EgsW/view"
+                                            },
+                                            {
+                                                "Judul": "Introduction to CSS",
+                                                "Date": "31-03-2023",
+                                                "Url": "https://drive.google.com/file/d/1_fHCpchS2keZatMzYwPh2gImP8pg8EBO/view"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "folder": "penunjang",
+                                "kontenFolder": [
+                                    {
+                                        "folder": "Javascript",
+                                        "Sertifikat": [
+                                            {
+                                                "judul": "Array Method",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1UHgkCC1K7hO73hrfvWj-ka9Zu6XNBvNK/view"
+                                            },
+                                            {
+                                                "judul": "Array-iteration and Regex",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1YS1bNO_vJcI7mf2A8iU-OuohFsWOqyoq/view"
+                                            },
+                                            {
+                                                "judul": "Asynchronous Process",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1pIIrS9kgTTWArT-Hf0YIm-2uE49b-bpI/view"
+                                            },
+                                            {
+                                                "judul": "Comparison and Logical Operator",
+                                                "date": "12-04-2023",
+                                                "url": "https://drive.google.com/file/d/12NwzdLevR7xzkeFhovXunNdGMwu9ggUC/view"
+                                            },
+                                            {
+                                                "judul": "Conditional Branching And Switch Statement",
+                                                "date": "14-09-2023",
+                                                "url": "https://drive.google.com/file/d/1smtYeV09c_J_y-GmjxvfFA09V9lP0Fo5/view"
+                                            },
+                                            {
+                                                "judul": "Data Type and Operator",
+                                                "date": "14-09-2023",
+                                                "url": "https://drive.google.com/file/d/1ZNDtNcuJFYrayW7jQB2HHfMeZWnaAYr_/view"
+                                            },
+                                            {
+                                                "judul": "Document Object Model: Part 1",
+                                                "date": "14-09-2023",
+                                                "url": "https://drive.google.com/file/d/19PVxoZCde5Rk674zAgUGticx7055JYpQ/view"
+                                            },
+                                            {
+                                                "judul": "Document Object Model: Part 2",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1EsMfWV87xur2uB40biYMYXk8_J-1UWfr/view"
+                                            },
+                                            {
+                                                "judul": "Ecmascript Introduction",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1LeFFNgYk6queAB8-b3u8yq8gg6vAyAUN/view"
+                                            },
+                                            {
+                                                "judul": "Functional Programming and Destructive Assignment",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1JEvYgX47gJrYpr_z76a2fzYFVWluQy1V/view"
+                                            },
+                                            {
+                                                "judul": "HTTP Request and Async Await: Part 1",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/183-zyxC00y0c5LFIOpwTt0ssgQaaEnps/view"
+                                            },
+                                            {
+                                                "judul": "HTTP Request and Async Await: Part 2",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1OjQmZx2Amh7WE_dI-WYu-k5jX2ZzH_QO/view"
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            },
+                                            {
+                                                "judul": "",
+                                                "date": "",
+                                                "url": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "folder": "Revou"
+                    }
+                ]
+            },
+            {
+                "folder": "Informal"
+            },
+            {
+                "folder": "Event"
+            }
+        ]
+    }
+]

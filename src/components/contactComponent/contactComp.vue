@@ -1,5 +1,3 @@
-<!-- FIXME : Contact logic, from supabase -->
-
 <script setup>
 import { ref, watch, onMounted } from 'vue';
 import { discordChatId, discordBotToken } from '../../../src/libs/discordEnv.js';

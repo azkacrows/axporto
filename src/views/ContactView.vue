@@ -5,7 +5,9 @@ import contactComp from '../components/contactComponent/contactComp.vue';
     <!-- Contact header -->
     <div class="mt-12">
         <div class="flex flex-row items-center font-fira-code">
-            <div class="flex flex-row items-center justify-between w-full gap-4 pl-4">
+            <div
+                class="flex flex-col items-center justify-between w-full gap-4 lg:pl-4 lg:items-start"
+            >
                 <h2 class="text-4xl font-semibold lg:pl-0 text-accent">
                     <span class="text-primary">/</span>contact
                 </h2>
