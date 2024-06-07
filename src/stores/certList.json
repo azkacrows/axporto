@@ -465,74 +465,289 @@
                                                 "url": "https://drive.google.com/file/d/1OjQmZx2Amh7WE_dI-WYu-k5jX2ZzH_QO/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Introduction to Javascript",
+                                                "date": "14-09-2023",
+                                                "url": "https://drive.google.com/file/d/1zp2N3gbc5qCbt3dG0JA4Wllw8uMGi8h0/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Javascript Dates",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1O5xmTGNoReOfDPHCvhdn7H3o5AO9uj61/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Javascript Function",
+                                                "date": "14-09-2023",
+                                                "url": "https://drive.google.com/file/d/1M0eDsINzqIol6LYw5NZbD72F0HFQpSsA/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Javascript - Callback",
+                                                "date": "14-09-2023",
+                                                "url": "https://drive.google.com/file/d/1sVBcD-xajFO23vmzYyaPXEGlp_zmE4xs/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Javascript - Promise",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1PFU9U2ZiHJi4JRWEpePNlQHraqefwXUd/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Looping Javascript: Part 1",
+                                                "date": "14-09-2023",
+                                                "url": "https://drive.google.com/file/d/16fHyLC_YpX__XnEIQJfkkpwru8N2vdru/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Looping Javascript: Part 2",
+                                                "date": "14-09-2023",
+                                                "url": "https://drive.google.com/file/d/1aoJXoJTxPA3ZmTVYKfczvxhP1VCfiFa0/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Mini Project: Calculator",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/186nGJoUyfpIhYEaKXbxQs-UiRqAhU4Zl/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Number and Math Methods",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/13Yu5CT-pWi5Uxxava57Ngc4B7RkoK272/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Object and Array",
+                                                "date": "14-09-2023",
+                                                "url": "https://drive.google.com/file/d/1DPnYhAiHOy9EOokUmj1IQHJtBMrkZLd0/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Object Oriented Programming: Part 1",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1i0YQyIHezq4iBVgUJLABfKBtwp0ow1WC/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Object Oriented Programming: Part 2",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1Nn0uOEg1sJ8-z7iFQWhR5b_DE0amDnEO/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "String Methods",
+                                                "date": "13-09-2023",
+                                                "url": "https://drive.google.com/file/d/1d0T90ESt0L_YLWMDV07-hp5Wvx1NGx2A/view"
                                             },
                                             {
-                                                "judul": "",
-                                                "date": "",
-                                                "url": ""
+                                                "judul": "Switch Statement",
+                                                "date": "14-09-2023",
+                                                "url": "https://drive.google.com/file/d/1Rlgm-qjN4msTqqAMohzUneEwl6OQofB6/view"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "folder": "penunjang",
+                                "kontenFolder": [
+                                    {
+                                        "folder": "ReactJS",
+                                        "Sertifikat": [
+                                            {
+                                                "Judul": "Basic Concepts of ReactJS",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1qbcTRjNKkzq1zTvBCrInzuDQ4DA08joD/view"
+                                            },
+                                            {
+                                                "Judul": "Creating a Portofolio: Header",
+                                                "Date": "15-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1UXPHEXlgqkeHK6TPmEM5_hllysJQGXEX/view"
+                                            },
+                                            {
+                                                "Judul": "Creating a Portofolio: Inserting Contact",
+                                                "Date": "15-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1vOBvoQpHArFu791tdmGOkp6uCqDMSeUs/view"
+                                            },
+                                            {
+                                                "Judul": "Creating a Portofolio: Resume",
+                                                "Date": "15-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1xZJS6vo6yUfVAws0VLTJZJLMQbcCYSaJ/view"
+                                            },
+                                            {
+                                                "Judul": "Creating a Portofolio: Inserting Biodata",
+                                                "Date": "15-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1vAB7wltuRm5ErI5b7MABAJoh3jIlc3FR/view"
+                                            },
+                                            {
+                                                "Judul": "Creating a Portofolio: Inserting Project Portfolio",
+                                                "Date": "15-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1YF5WiQETAj8KMbOpI-vwyMPo-Vusqsez/view"
+                                            },
+                                            {
+                                                "Judul": "Creating a Portofolio: Footer",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1b1zCz2z6qokYn-iuz63N2cNk54X-ZwZg/view"
+                                            },
+                                            {
+                                                "Judul": "Displaying Data and Looping in JSX",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1nF08m9kASP1EcpDbmQoZfgXuWLavvp_i/view"
+                                            },
+                                            {
+                                                "Judul": "Elements, Components, And Props: Part 1",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1v6LcP2vrWsUjllpsZbSv5m_S23zZldeB/view"
+                                            },
+                                            {
+                                                "Judul": "Elements, Components, And Props: Part 2",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1u-BMMb5vsfsX9dFPY1bpecliNXtaaKVk/view"
+                                            },
+                                            {
+                                                "Judul": "Introduction to ReactJS",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1kFt7xwBlTgurPfbYb5gxEtzmAMeBlSy3/view"
+                                            },
+                                            {
+                                                "Judul": "Javascript Syntax Extensions",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1ulqJmUvwcDgd76qx0QcNKk-mjxd4G4Zt/view"
+                                            },
+                                            {
+                                                "Judul": "ReactJS Components",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1lbWCGIzgit7hALpvPXLoy-HvPMfamgn_/view"
+                                            },
+                                            {
+                                                "Judul": "ReactJS Form",
+                                                "Date": "15-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1jgYFKV6sFoU_dvdWRJr2r8eOCTMbKfmp/view"
+                                            },
+                                            {
+                                                "Judul": "React Hooks (Useeffect)",
+                                                "Date": "15-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1xAiDeuUgwk-Q0qblhwYkq1-1BqBnF1f1/view"
+                                            },
+                                            {
+                                                "Judul": "React Hooks",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1EbH0OetxoBevIVtV8AvuNs7jk7s134ls/view"
+                                            },
+                                            {
+                                                "Judul": "React Lists And Styling",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1U7vV7wlCR16dvyZkryodh458K71gOSSq/view"
+                                            },
+                                            {
+                                                "Judul": "React Router",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1SETvZUJcJKI52a29fWhMv3W9n9O-CNum/view"
+                                            },
+                                            {
+                                                "Judul": "Reacts Event And Conditional Rendering",
+                                                "Date": "14-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1J7LbX6E1Q5O4BXOxW_RZ7Q9aJY6j_oVS/view"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "folder": "penunjang",
+                                "kontenFolder": [
+                                    {
+                                        "folder": "Go",
+                                        "Sertifikat": [
+                                            {
+                                                "Judul": "API Introduction",
+                                                "Date": "19-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1iOITPQWbHqlAkz4C-B-fSan9kRH-JD5i/view"
+                                            },
+                                            {
+                                                "Judul": "Array and Struct",
+                                                "Date": "17-09-2023",
+                                                "Url": "https://drive.google.com/file/d/11rO76QPKpdIrP_tZnQOx_4o9hrOfZs3V/view"
+                                            },
+                                            {
+                                                "Judul": "Authentication and Authorization",
+                                                "Date": "19-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1fnFvLv5cIsqoyOiZF19XQlzuBJ5qpogu/view"
+                                            },
+                                            {
+                                                "Judul": "Backend Development Introduction 2",
+                                                "Date": "15-09-2023",
+                                                "Url": "https://drive.google.com/file/d/1WtRtywtCHVe_VFQdi326j_7e-kZNh4uT/view"
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
+                                            },
+                                            {
+                                                "Judul": "",
+                                                "Date": "",
+                                                "Url": ""
                                             }
                                         ]
                                     }
