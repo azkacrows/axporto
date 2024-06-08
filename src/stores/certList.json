@@ -804,11 +804,238 @@
                                 "Url": "https://drive.google.com/file/d/1OoB503oc5ZVJTPzEkOIikrDhfjacwQTJ/view"
                             }
                         ]
+                    },
+                    {
+                        "folder": "Sololearn",
+                        "Sertifikat": [
+                            {
+                                "Judul": "CSS",
+                                "Date": "11-02-2023",
+                                "Url": "https://drive.google.com/file/d/1GStE3gQ3QwqA7AUCNYFA6YVPViQPwj15/view"
+                            },
+                            {
+                                "Judul": "HTML course",
+                                "Date": "26-06-2022",
+                                "Url": "https://drive.google.com/file/d/1J4h5whO_M2eRnanSp5O_dvA2iO46fFOI/view"
+                            }
+                        ]
+                    },
+                    {
+                        "folder": "Udemy",
+                        "Sertifikat": [
+                            {
+                                "Judul": "Practical Cisco Networking Labs in Cisco Packet Tracer",
+                                "Date": "11-06-2022",
+                                "Url": "https://drive.google.com/file/d/1Jb-A68gdbV62COYW1cUH93ksbIpjTd0M/view"
+                            },
+                            {
+                                "Judul": "Bootstrap 5 Course: Build Responsive Website Like a Pro",
+                                "Date": "11-10-2022",
+                                "Url": "https://drive.google.com/file/d/1AyDFg5GR6bLhenTkadw3ci0J7jxmqtpD/view"
+                            },
+                            {
+                                "Judul": "ZZ Burp Suite for Web Application Security Testing",
+                                "Date": "11-06-2022",
+                                "Url": "https://drive.google.com/file/d/1C2SkMf-W2OMEdnsICTyxC8FdfCxnNtMf/view"
+                            }
+                        ]
                     }
                 ]
             },
             {
-                "folder": "Event"
+                "folder": "Event",
+                "KontenFolder": [
+                    {
+                        "folder": "Dicoding",
+                        "Sertifikat": [
+                            {
+                                "Judul": "Android Career Kickstart: Actionable Advice for New Graduates to Land Developer Roles Rapidly",
+                                "Date": "14-05-2024",
+                                "Url": "https://drive.google.com/file/d/1T4WSVgDefO-gdQOpl90cF3bx_HP-XOE5/view"
+                            },
+                            {
+                                "Judul": "AWS X Dicoding LIVE: Application Testing",
+                                "Date": "27-07-2023",
+                                "Url": "https://drive.google.com/file/d/1Q9N7RGSS0bmz1tvIixlavxavLrrvBCPh/view"
+                            },
+                            {
+                                "Judul": "AWS X Dicoding LIVE: CI/CD - Cara Ampuh Tingkatkan Kebahagiaan Developer dan Customer",
+                                "Date": "24-08-2023",
+                                "Url": "https://drive.google.com/file/d/1_ogGdj6BuI09VYAe0JszWY5RQ6NcXlEj/view"
+                            },
+                            {
+                                "Judul": "AWS X Dicoding LIVE: Container 101",
+                                "Date": "17-03-2023",
+                                "Url": "https://drive.google.com/file/d/1_ExCql_JB3tw_I2e6OJYTlI6t4o17kBM/view"
+                            },
+                            {
+                                "Judul": "AWS X Dicoding LIVE: Membangun Software Lebih Produktif Dengan GitOps",
+                                "Date": "29-09-2023",
+                                "Url": "https://drive.google.com/file/d/1GvPEJqC4UPGEJ5I7LhNowe6nVEn1uwO0/view"
+                            },
+                            {
+                                "Judul": "AWS X Dicoding LIVE: Serverless Microservices, Container and Orchestration",
+                                "Date": "27-06-2023",
+                                "Url": "https://drive.google.com/file/d/1v9ahxYSWQgo4eV4OulshDc2GQGZ_rSDQ/view"
+                            },
+                            {
+                                "Judul": "AWS X Dicoding LIVE: Software Architecture",
+                                "Date": "24-05-2023",
+                                "Url": "https://drive.google.com/file/d/1zEVNS0cB9Ws8aIsflWtnfY2O8bABhIcq/view"
+                            },
+                            {
+                                "Judul": "Baparekraf Developer Day 2023",
+                                "Date": "18-03-2023",
+                                "Url": "https://drive.google.com/file/d/1f93nECZ3F1lqH71okMndTfhD9nVIXBLf/view"
+                            },
+                            {
+                                "Judul": "Build & Deploy Apps Easily and Securely with Google Cloud",
+                                "Date": "27-05-2023",
+                                "Url": "https://drive.google.com/file/d/12V-tsNTixCexd9EpjMxu6158KxkJkUYl/view"
+                            },
+                            {
+                                "Judul": "Career Counseling #1 - Getting Started: Professional Tips to Successfully Enter the Tech Job Market",
+                                "Date": "11-11-2023",
+                                "Url": "https://drive.google.com/file/d/1ihivNKIBxfpiVUUFsUjzHyLodoqrmtuO/view"
+                            },
+                            {
+                                "Judul": "Career Counseling #2 - Artificial Intelligence and Recruiting: A Recruiter’s Perspective",
+                                "Date": "12-11-2023",
+                                "Url": "https://drive.google.com/file/d/1h6VsY_X-NEeifpv5-uWKedUIDc1VeWhh/view"
+                            },
+                            {
+                                "Judul": "Career Counseling #3 - How to Impress and Win Over HR",
+                                "Date": "13-11-2023",
+                                "Url": "https://drive.google.com/file/d/1IdK7PXcwNMZHg3YjX3tTTqjDHtHRGq3U/view"
+                            },
+                            {
+                                "Judul": "Career Counseling #4 - The Art of Writing an Effective Resume & Cover Letter",
+                                "Date": "14-11-2023",
+                                "Url": "https://drive.google.com/file/d/18pZ0KV-ZijtsrUJEHoxWpjq65ZwOfUly/view"
+                            },
+                            {
+                                "Judul": "Career Counseling #5 - How to Higlight Your Potential on Portfolio",
+                                "Date": "15-11-2023",
+                                "Url": "https://drive.google.com/file/d/1ohJm_1uyhzsxpbQiPEX_3yzsKA3PUlUA/view"
+                            },
+                            {
+                                "Judul": "Career Counseling #6 - Public Speaking and Negotiation",
+                                "Date": "16-11-2023",
+                                "Url": "https://drive.google.com/file/d/1gXeNekGBWp04l2qhHNmVUi_1egEezfNV/view"
+                            },
+                            {
+                                "Judul": "Career Counseling #7 - An In-Depth Guide on Technical Tests for Programmers",
+                                "Date": "17-11-2023",
+                                "Url": "https://drive.google.com/file/d/1pUKE6qHpHFFb49JtZUSt63LVyrqjGr95/view"
+                            },
+                            {
+                                "Judul": "Career Counseling #8 - Building a Better Growth Mindset to Enter a Professional Tech Industry",
+                                "Date": "18-11-2023",
+                                "Url": "https://drive.google.com/file/d/1224-_D8r7vPQBbJAiqe02AP8GYVnMNwF/view"
+                            },
+                            {
+                                "Judul": "Career Counseling #9 - The Success Strategy in Recruitment Process",
+                                "Date": "19-11-2023",
+                                "Url": "https://drive.google.com/file/d/1539JM6-rH7rWeVE2hp3i3ueZXUa3SLvY/view"
+                            },
+                            {
+                                "Judul": "Career Counseling #10 - Empowering Next Generation of Women in Tech: Finding Your Path to a New Tech Career",
+                                "Date": "20-11-2023",
+                                "Url": "https://drive.google.com/file/d/1ceYxQy6azIbV3BLjHMSgutmoTCOvwPMk/view"
+                            },
+                            {
+                                "Judul": "Career Counseling #11 - Planning and Choosing a Career Path for a Better Future",
+                                "Date": "21-11-2023",
+                                "Url": "https://drive.google.com/file/d/1QnJ9cn0z7PHk_v6nls8TTY5l4SYJVE1-/view"
+                            },
+                            {
+                                "Judul": "Crafting Your Digital Marketing Journey: Tips and Tricks from Industry Experts",
+                                "Date": "26-04-2024",
+                                "Url": "https://drive.google.com/file/d/1VxUFMuDInlpeOprhf-BvcaCKLmz7wXCB/view"
+                            },
+                            {
+                                "Judul": "Cyber-Smart: Learning, Protecting, and Thriving in the Digital Era",
+                                "Date": "07-11-2023",
+                                "Url": "https://drive.google.com/file/d/18sxTPbm0Mcv9tbi_N3eLTOgBq4vQ4R5X/view"
+                            },
+                            {
+                                "Judul": "Dari Geologi hingga Koding: Tips Banting Setir ke Dunia IT",
+                                "Date": "03-10-2023",
+                                "Url": "https://drive.google.com/file/d/16sZd0_dyJ-qSstLdh7VnMPw_dCTbUo2o/view"
+                            },
+                            {
+                                "Judul": "Data Engineering series #1: Data Di Antara Kita",
+                                "Date": "09-08-2023",
+                                "Url": "https://drive.google.com/file/d/1FKtZOetK_MNwIQ8YQShSnSk6OveL4plc/view"
+                            },
+                            {
+                                "Judul": "Data Engineering Series #1 : Data di Antara Kita | QnA Session",
+                                "Date": "16-08-2023",
+                                "Url": "https://drive.google.com/file/d/1eNNGqKrFv76wmbHi9tQ3bcdHd7UIc9vJ/view"
+                            },
+                            {
+                                "Judul": "Data Engineering Series #2 | Data untuk Data Engineering",
+                                "Date": "23-08-2023",
+                                "Url": "https://drive.google.com/file/d/1jDiMGYqCxCj_4qqXw7tb_LhwAFnj5uxb/view"
+                            },
+                            {
+                                "Judul": "",
+                                "Date": "",
+                                "Url": ""
+                            },
+                            {
+                                "Judul": "",
+                                "Date": "",
+                                "Url": ""
+                            },
+                            {
+                                "Judul": "",
+                                "Date": "",
+                                "Url": ""
+                            },
+                            {
+                                "Judul": "",
+                                "Date": "",
+                                "Url": ""
+                            },
+                            {
+                                "Judul": "",
+                                "Date": "",
+                                "Url": ""
+                            },
+                            {
+                                "Judul": "",
+                                "Date": "",
+                                "Url": ""
+                            },
+                            {
+                                "Judul": "",
+                                "Date": "",
+                                "Url": ""
+                            },
+                            {
+                                "Judul": "",
+                                "Date": "",
+                                "Url": ""
+                            },
+                            {
+                                "Judul": "",
+                                "Date": "",
+                                "Url": ""
+                            },
+                            {
+                                "Judul": "",
+                                "Date": "",
+                                "Url": ""
+                            },
+                            {
+                                "Judul": "",
+                                "Date": "",
+                                "Url": ""
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }
