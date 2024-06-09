@@ -1009,29 +1009,224 @@
                                 "Url": "https://drive.google.com/file/d/1MWD8JuSq0akLu20SMH6o9XAZOar7TAGH/view"
                             },
                             {
-                                "Judul": "",
-                                "Date": "",
-                                "Url": ""
+                                "Judul": "Dicoding Developer Coaching #92 : Back-End | Deploy Aplikasi Node.js di AWS EC2",
+                                "Date": "09-06-2023",
+                                "Url": "https://drive.google.com/file/d/1RmETP_jc187CAvY0U3N9bVVPJ7EDNB3g/view"
                             },
                             {
-                                "Judul": "",
-                                "Date": "",
-                                "Url": ""
+                                "Judul": "Dicoding Developer Coaching #93: Front-End Web | Pengenalan Web Development",
+                                "Date": "20-06-2023",
+                                "Url": "https://drive.google.com/file/d/1kO-mX94zaM4snTxrGd5MZEs8taPVcjPA/view"
                             },
                             {
-                                "Judul": "",
-                                "Date": "",
-                                "Url": ""
+                                "Judul": "Dicoding Developer Coaching #95 | Terima Kasih, DNS!",
+                                "Date": "04-07-2023",
+                                "Url": "https://drive.google.com/file/d/1FRxsc7DcS9MTi2hRk8O_XR9bPstjC4Lk/view"
                             },
                             {
-                                "Judul": "",
-                                "Date": "",
-                                "Url": ""
+                                "Judul": "Dicoding Developer Coaching #96 | Mau Jaringanmu Aman? Begini caranya",
+                                "Date": "11-07-2023",
+                                "Url": "https://drive.google.com/file/d/1I7wuiOpbJqTxauY-vqCWzVHUQ7YLX5ZF/view"
                             },
                             {
-                                "Judul": "",
-                                "Date": "",
-                                "Url": ""
+                                "Judul": "Dicoding Developer Coaching #97 | Apa Itu Artificial Neural Network",
+                                "Date": "18-07-2023",
+                                "Url": "https://drive.google.com/file/d/1k9YqMt5UBOE4-OFqJluJ5pmlPI70_p-Q/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #99 : Back-End | Automation Testing dengan Postman",
+                                "Date": "08-08-2023",
+                                "Url": "https://drive.google.com/file/d/1IPB-1Fywi_m9LnUvtcDNOcxAoyELnLbM/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #100 | Special Episode",
+                                "Date": "22-08-2023",
+                                "Url": "https://drive.google.com/file/d/1jCalDhw2YCIo8ZnG09g6vSiBgmEGaAOa/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #101: Back-End | Hapi Plugin dan Data Validation",
+                                "Date": "05-09-2023",
+                                "Url": "https://drive.google.com/file/d/1aW6V5AyV3zVd8PGyXB-5oGvWkGZ2beuC/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #102: Front-End | Pendalaman HTML",
+                                "Date": "12-09-2023",
+                                "Url": "https://drive.google.com/file/d/1dnf4O0Yt-GMcDQI3YNrDKZKxKw8QYOBZ/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #103: Front-End | Percantik Website-mu dengan CSS",
+                                "Date": "19-09-2023",
+                                "Url": "https://drive.google.com/file/d/1LvO9DKHhHexcegKr14qWgx7kn0Y1YJUh/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #104: Front-End | Kenalan Lebih Dalam dengan CSS",
+                                "Date": "26-09-2023",
+                                "Url": "https://drive.google.com/file/d/1m0Eh3T-z4j5v90_paNAGRX7-qw5n8uGm/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #105: Front-End | Hidup Tentram dengan Flexbox",
+                                "Date": "03-10-2023",
+                                "Url": "https://drive.google.com/file/d/1dKkkYIZw-uiwvy_ZjBoLyPKTefNTG2_8/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #109: Back-End | Membuat REST API dengan Mudah Menggunakan Node.js dan PostgreSQL",
+                                "Date": "31-10-2023",
+                                "Url": "https://drive.google.com/file/d/1x879U__VRAJCmgkZWD16cho-kRZ165S-/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #110: iOS | Switching Karier menjadi iOS Developer",
+                                "Date": "03-11-2023",
+                                "Url": "https://drive.google.com/file/d/1AsZUsgFa7v27Hin1yKPRUXVUxxzmBNEC/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #111 : Machine Learning | Natural Language Processing (NLP) dengan TensorFlow",
+                                "Date": "07-11-2023",
+                                "Url": "https://drive.google.com/file/d/1fUshgww80nMhWqRWULYGGha5Wr1oxhwC/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #112 : DevOps Engineer | Berkenalan dengan CI/CD",
+                                "Date": "14-11-2023",
+                                "Url": "https://drive.google.com/file/d/1BkFO1xf8tY0eZVwla0adDFc8_usv5q12/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #113 : iOS | Menjelajah Dunia Pemrograman Swift",
+                                "Date": "17-11-2023",
+                                "Url": "https://drive.google.com/file/d/1C_uwNpXEy2UCH1WnG-bTYAwqZnvj1Tz0/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #114 : Machine Learning | Meramal Masa Depan Menggunakan Time Series",
+                                "Date": "21-11-2023",
+                                "Url": "https://drive.google.com/file/d/1h3RSQ4skIVpJ4F5Uncz_rlKZwGe4d5os/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coaching #115 : iOS | Menggali Potensi Pemrograman Berorientasi Objek (OOP) dalam Swift",
+                                "Date": "23-11-2023",
+                                "Url": "https://drive.google.com/file/d/1AU5xs-aGN-4N48NZCGbX62GTtgniH1iE/view"
+                            },
+                            {
+                                "Judul": "Dicoding Developer Coacing #94 | Pengenalan HTML",
+                                "Date": "27-06-2023",
+                                "Url": "https://drive.google.com/file/d/1AEEHtT3pm0tJKTieApEcoHLu9onC0HVv/view"
+                            },
+                            {
+                                "Judul": "Dicoding Jobs Live #1: Unlocking Your First Job | Data-Driven Insights",
+                                "Date": "26-07-2023",
+                                "Url": "https://drive.google.com/file/d/1T9m9qSTmdNbNfiXhOwZPHOuB7EDUdTPe/view"
+                            },
+                            {
+                                "Judul": "Dicoding Jobs Live #2 - Digital Footprint to Dream Job: Job Seeker Profile Mastery",
+                                "Date": "30-08-2023",
+                                "Url": "https://drive.google.com/file/d/1w3kaz26SiZ24wauM9DkrBFQWQspd60ir/view"
+                            },
+                            {
+                                "Judul": "Dicoding Jobs Live #3 - Navigating the Future: Career Preparation for Curriculum Developer and Code Review Roles",
+                                "Date": "27-09-2023",
+                                "Url": "https://drive.google.com/file/d/12Ei763hlJNHfTjevdaDlNjcrh15lvOny/view"
+                            },
+                            {
+                                "Judul": "Dicoding Jobs Live #4 - Banting Setir Tak Kenal Usia: Career Switch Raih Karier Programmer di Usia 30-an",
+                                "Date": "30-10-2023",
+                                "Url": "https://drive.google.com/file/d/1id7UrbSEic_9Dn--RQh7j2XKksc0Hc9Z/view"
+                            },
+                            {
+                                "Judul": "Dicoding Scholarship Carnival",
+                                "Date": "20-05-2023",
+                                "Url": "https://drive.google.com/file/d/1uVHRn7VcJHkinDqN4QDhb1P-W0QykRFx/view"
+                            },
+                            {
+                                "Judul": "Embracing a Growth Mindset as a Software Engineer",
+                                "Date": "29-04-2023",
+                                "Url": "https://drive.google.com/file/d/1rsAQN9r5yay1i_MiD08k5JR3UfD67Pl5/view"
+                            },
+                            {
+                                "Judul": "Empowering Women in Tech: Breaking Barriers, Building Careers",
+                                "Date": "08-03-2024",
+                                "Url": "https://drive.google.com/file/d/1lsH-vNf3QK5lwIKyOoJ6nibRFgV45IAy/view"
+                            },
+                            {
+                                "Judul": "From Generalist to Back-End Specialist",
+                                "Date": "06-02-2024",
+                                "Url": "https://drive.google.com/file/d/1_IMsybaPsfpEvm80fPCrNJx0O4VE_Ofu/view"
+                            },
+                            {
+                                "Judul": "IDCamp Alumni Dialogue #1 - Unlocking Your Potential: Personal Development in Tech",
+                                "Date": "26-09-2023",
+                                "Url": "https://drive.google.com/file/d/1198ohQhfhuL3NxuUAI_wwunlMyrNuK19/view"
+                            },
+                            {
+                                "Judul": "IDCamp Alumni Dialogue #2 - Personal Branding and Networking for Programmers",
+                                "Date": "13-12-2023",
+                                "Url": "https://drive.google.com/file/d/13nIZoaJUbaVtvR7nyS4EID5Q9b5KRY6X/view"
+                            },
+                            {
+                                "Judul": "IDCamp Alumni Dialogue #3 - Leadership in the Digital Age",
+                                "Date": "21-02-2024",
+                                "Url": "https://drive.google.com/file/d/1SIm6ZjIbosWQ_lrPAaGISWW5nu_mdKqP/view"
+                            },
+                            {
+                                "Judul": "IDCamp Alumni Dialogue #4 - The Power of Networking and Mentorship",
+                                "Date": "17-04-2024",
+                                "Url": "https://drive.google.com/file/d/1IVDwUkkIhlWhAllHne8svrgvuQcskPF6/view"
+                            },
+                            {
+                                "Judul": "Tech Talk #1 - The Future of Indonesia’s Tech Industries: How to Develop Advanced Tech Companies",
+                                "Date": "11-11-2023",
+                                "Url": "https://drive.google.com/file/d/16O3awQWsr5s4Vcrw2Gnh9ecwdJub-rTr/view"
+                            },
+                            {
+                                "Judul": "Tech Talk #2 - Career, Technology, AI, and Innovation: How to Secure Your Career Against Tech Advancement",
+                                "Date": "12-11-2023",
+                                "Url": "https://drive.google.com/file/d/17pYVjwWRDSTY4BEBy9kHjhM9tekVTdfO/view"
+                            },
+                            {
+                                "Judul": "Tech Talk #3 - The Future of Work: Improving Project’s Efficiency at Work by Using Practical Technology",
+                                "Date": "13-11-2023",
+                                "Url": "https://drive.google.com/file/d/1NGJOES8AxeT6O5b2uRdb3TCSENXi5l5d/view"
+                            },
+                            {
+                                "Judul": "Tech Talk #4 - The Opportunity of a Digital World",
+                                "Date": "14-11-2023",
+                                "Url": "https://drive.google.com/file/d/1P2v1qxSme0tuIdp6GF0wZ_q03m1fkdok/view"
+                            },
+                            {
+                                "Judul": "Tech Talk #5 - Importance of Technology Innovations for Achieving Company Growth",
+                                "Date": "15-11-2023",
+                                "Url": "https://drive.google.com/file/d/1B4HhPEUftHFZE5FHV7xcz049twoUCfMi/view"
+                            },
+                            {
+                                "Judul": "Tech Talk #6 - Tech Winter: Myth or Fact?",
+                                "Date": "16-11-2023",
+                                "Url": "https://drive.google.com/file/d/1rrq7pvPM2Xyv5WOKk2lve_YAGcxnZ7QH/view"
+                            },
+                            {
+                                "Judul": "Tech Talk #7 - Sustainability in Indonesia’s Tech Industry",
+                                "Date": "17-11-2023",
+                                "Url": "https://drive.google.com/file/d/1fi-w5wCHISZFUojBZrSFManeBMwOyLJN/view"
+                            },
+                            {
+                                "Judul": "Tech Talk #8 - 5 Most In-Demand Tech Skills to Support Digital Transformation",
+                                "Date": "18-11-2023",
+                                "Url": "https://drive.google.com/file/d/1MpXg_6b4pDXDPBnGv5dvp71Ywiuw8iur/view"
+                            },
+                            {
+                                "Judul": "Tech Talk #9 - Using Technology to Create a Better Customer Experience",
+                                "Date": "19-11-2023",
+                                "Url": "https://drive.google.com/file/d/1loeTo1XiOTNNyuOuR72m_YB6VmjlQwz9/view"
+                            },
+                            {
+                                "Judul": "Tech Talk #10 - Women Leaders in the Tech Industry",
+                                "Date": "20-11-2023",
+                                "Url": "https://drive.google.com/file/d/1xNF1yR_vf-8HT5Ec8YHJ372rSwuKUMC0/view"
+                            },
+                            {
+                                "Judul": "Tech Talk #11 - Expecting the Unexpected: 2024 Technology Trends",
+                                "Date": "21-11-2023",
+                                "Url": "https://drive.google.com/file/d/1ZIUgl98honx9QTFsfsNVoz8dKB1AxzVK/view"
+                            },
+                            {
+                                "Judul": "Virtual Graduation dan Launching Lintasarta Cloudeka Digischool",
+                                "Date": "24-11-2023",
+                                "Url": "https://drive.google.com/file/d/1lvk8YNJQWKKWi_1WHZ3UW99l9oP2s4P-/view"
                             }
                         ]
                     }
