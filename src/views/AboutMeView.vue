@@ -93,16 +93,17 @@ onMounted(() => {
                 I like <span class="font-semibold">winter</span> more than
                 <span class="font-semibold">summer</span>
             </p>
+            <p class="hob">I like singing</p>
             <p class="hob">I like to play video games</p>
-            <p class="hob">I spend most my time reading than writting</p>
+            <p class="hob">I like to play guitar</p>
+            <p class="hob">
+                I spend most my time <span class="font-semibold">reading</span> than
+                <span class="font-bold">writting</span>
+            </p>
             <p class="hob">
                 My favorite anime is
                 <span class="font-bold">Ousama Ranking </span>
             </p>
-            <p class="hob"></p>
-            <p class="hob"></p>
-            <p class="hob"></p>
-            <p class="hob"></p>
         </div>
         <div class="w-5/12">
             <WakaTimeComp />
