@@ -3,7 +3,7 @@ import BoxIcon from '../icons/BoxIcon.vue';
 import DotGenIcon from '../icons/DotGenIcon.vue';
 import PhotoBGIcon from '../icons/PhotoBGIcon.vue';
 </script>
-
+<!-- TODO : Adding px-4 to header and content -->
 <template>
     <!-- Skill header -->
     <div class="w-11/12 mt-4 lg:w-2/5">

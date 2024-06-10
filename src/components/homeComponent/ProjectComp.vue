@@ -1,4 +1,5 @@
 <!-- eslint-disable vue/no-parsing-error -->
+<!-- TODO : Adding px-4 to header and content -->
 <template>
     <!-- project header -->
     <div class="flex flex-row items-center gap-4 font-fira-code">
