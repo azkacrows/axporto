@@ -1,0 +1,96 @@
+[
+    {
+        "folder": "Latihan Mandiri",
+        "KontenFolder": [
+            {
+                "ProjectName": "Web Portfolio V2",
+                "Date": "03-2024",
+                "Img": "",
+                "Live": "https://azkacrows.github.io",
+                "Code": "https://github.com/azkacrows/axporto.git"
+            },
+            {
+                "ProjectName": "Weather2",
+                "Date": "11-2023",
+                "Img": "",
+                "Live": "https://example.com",
+                "Code": "https://github.com/azkacrows/Latihan-Mandiri/tree/main/weather2"
+            },
+            {
+                "ProjectName": "WeatherApp",
+                "Date": "",
+                "Img": "",
+                "Live": "https://example.com",
+                "Code": "https://github.com/azkacrows/Latihan-Mandiri/tree/main/weather-app"
+            },
+            {
+                "ProjectName": "Web Portfolio V1",
+                "Date": "",
+                "Img": "",
+                "Live": "https://example.com",
+                "Code": "https://github.com/azkacrows/Latihan-Mandiri/tree/main/porto"
+            },
+            {
+                "ProjectName": "Twit Card",
+                "Date": "",
+                "Img": "",
+                "Live": "https://example.com",
+                "Code": "https://github.com/azkacrows/Latihan-Mandiri/tree/main/Twit%20card"
+            },
+            {
+                "ProjectName": "Profile V1",
+                "Date": "",
+                "Img": "",
+                "Live": "https://example.com",
+                "Code": "https://github.com/azkacrows/Latihan-Mandiri/tree/main/Profile%20v1"
+            },
+            {
+                "ProjectName": "Kourse",
+                "Date": "",
+                "Img": "",
+                "Live": "https://example.com",
+                "Code": "https://github.com/azkacrows/Latihan-Mandiri/tree/main/Kourse"
+            },
+            {
+                "ProjectName": "Kalkulator",
+                "Date": "",
+                "Img": "https://github.com/azkacrows/Latihan-Mandiri/blob/main/Kalkulator/Calculator%20App%20Ui%20Design%20Download%20Free%20(Community).png?raw=true",
+                "Live": "https://example.com",
+                "Code": "https://github.com/azkacrows/Latihan-Mandiri/tree/main/Kalkulator"
+            }
+        ]
+    },
+    {
+        "folder": "Latihan Bootcamp",
+        "KontenFolder": [
+            {
+                "ProjectName": "Tugas 1: HTML + CSS",
+                "Date": "",
+                "Img": "",
+                "Live": "https://example.com",
+                "Code": "https://github.com/azkacrows/Latihan-Bootcamp/tree/main/Alterra/Tugas%201%20_%20HTML%20%2B%20CSS"
+            },
+            {
+                "ProjectName": "Tugas 2: Bootstrap",
+                "Date": "",
+                "Img": "",
+                "Live": "https://example.com",
+                "Code": "https://github.com/azkacrows/Latihan-Bootcamp/tree/main/Alterra/Tugas%202%20_%20Bootstrap"
+            },
+            {
+                "ProjectName": "Tugas 3: Vue",
+                "Date": "",
+                "Img": "",
+                "Live": "https://example.com",
+                "Code": "https://github.com/azkacrows/Latihan-Bootcamp/tree/main/Alterra/Tugas%203_Vue"
+            },
+            {
+                "ProjectName": "Proyek Todo Apps: DOM Manipulation",
+                "Date": "",
+                "Img": "",
+                "Live": "https://example.com",
+                "Code": "https://github.com/azkacrows/Latihan-Bootcamp/tree/main/Dicoding/Proyek%20Todo%20Apps%20DOM%20Manipulation"
+            }
+        ]
+    }
+]
