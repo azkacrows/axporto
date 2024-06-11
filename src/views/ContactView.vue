@@ -20,7 +20,7 @@ import contactComp from '../components/contactComponent/contactComp.vue';
     >
         <!-- left side -->
         <div class="max-w-lg text-center lg:text-start">
-            <p class="pr-4">
+            <p class="lg:pr-4">
                 I’m interested in freelance opportunities. However, if you have other request or
                 question, don’t hesitate to contact me through social media or drop me a message in
                 form contact!

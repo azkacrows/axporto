@@ -1,8 +1,7 @@
 <!-- eslint-disable vue/no-parsing-error -->
-<!-- TODO : Adding px-4 to header and content -->
 <template>
     <!-- project header -->
-    <div class="flex flex-row items-center gap-4 font-fira-code">
+    <div class="flex flex-row items-center gap-4 font-fira-code lg:px-4">
         <div class="flex flex-row items-center justify-between w-2/3 gap-4">
             <h2 class="pl-4 text-2xl font-semibold lg:pl-0 text-accent">
                 <span class="text-primary">#</span>Projects
@@ -182,7 +181,7 @@
 
 <style scoped>
 .view {
-    @apply bg-inherit outline-none border-transparent shadow-none gap-0;
+    @apply bg-inherit outline-none border-transparent shadow-none gap-0 lg:pr-0;
 }
 .badge-container {
     @apply self-stretch justify-start w-full gap-0 p-2 border-b border-solid  card-actions border-success;

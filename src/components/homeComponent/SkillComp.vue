@@ -3,10 +3,10 @@ import BoxIcon from '../icons/BoxIcon.vue';
 import DotGenIcon from '../icons/DotGenIcon.vue';
 import PhotoBGIcon from '../icons/PhotoBGIcon.vue';
 </script>
-<!-- TODO : Adding px-4 to header and content -->
+
 <template>
     <!-- Skill header -->
-    <div class="w-11/12 mt-4 lg:w-2/5">
+    <div class="w-11/12 mt-4 lg:w-2/5 lg:px-4">
         <div class="flex flex-row items-center gap-4 mt-48 lg:mt-24 font-fira-code">
             <div class="flex flex-row items-center justify-between w-full gap-4">
                 <h2 class="pl-4 text-2xl font-semibold lg:pl-0 text-accent">
@@ -17,7 +17,7 @@ import PhotoBGIcon from '../icons/PhotoBGIcon.vue';
         </div>
     </div>
     <!-- Skill Content -->
-    <div class="flex flex-row my-10 font-fira-code lg:max-h-80 mx-5 lg:mx-2.5">
+    <div class="flex flex-row my-10 font-fira-code lg:max-h-80 mx-5 lg:mx-2.5 lg:pr-2">
         <!-- left decoration side -->
         <div class="relative items-center justify-start hidden w-5/12 lg:flex">
             <div class="absolute top-0 w-16 h-16 left-10">

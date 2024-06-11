@@ -30,7 +30,7 @@ onMounted(() => {
         class="flex flex-col items-center justify-between gap-4 px-4 my-10 lg:gap-0 lg:flex-row font-fira-code"
     >
         <!-- left side -->
-        <div class="flex flex-col max-w-lg gap-6 text-center lg:text-start">
+        <div class="flex flex-col max-w-lg gap-6 text-start">
             <p>Hello, i’m Jamal!</p>
             <p>
                 I’m a self-taught front-end developer based in East java, Indonesia. I can develop
@@ -72,6 +72,7 @@ onMounted(() => {
         class="grid items-stretch justify-center grid-cols-2 gap-4 px-4 my-10 lg:flex lg:items-start lg:flex-row font-fira-code"
     >
         <FullSkillComp
+            class="mx-auto lg:mx-0"
             v-for="skill in skills"
             :key="skill.title"
             :title="skill.title"
@@ -87,25 +88,25 @@ onMounted(() => {
         </div>
     </div>
     <!-- Fun Content -->
-    <div class="flex flex-row items-center justify-between gap-4 px-4 my-10">
-        <div class="flex flex-wrap w-5/12 gap-2">
-            <p class="hob">
+    <div class="flex flex-col-reverse items-center justify-between gap-4 px-4 my-10 lg:flex-row">
+        <div class="flex flex-wrap gap-2 lg:w-5/12">
+            <p class="order-1 hob lg:order-none">
                 I like <span class="font-semibold">winter</span> more than
                 <span class="font-semibold">summer</span>
             </p>
-            <p class="hob">I like singing</p>
-            <p class="hob">I like to play video games</p>
-            <p class="hob">I like to play guitar</p>
-            <p class="hob">
+            <p class="order-3 hob lg:order-none">I like singing</p>
+            <p class="order-4 hob lg:order-none">I like to play video games</p>
+            <p class="order-2 hob lg:order-none">I like to play guitar</p>
+            <p class="order-6 hob lg:order-none">
                 I spend most my time <span class="font-semibold">reading</span> than
                 <span class="font-bold">writting</span>
             </p>
-            <p class="hob">
+            <p class="order-5 hob lg:order-none">
                 My favorite anime is
                 <span class="font-bold">Ousama Ranking </span>
             </p>
         </div>
-        <div class="w-5/12">
+        <div class="w-full lg:w-5/12">
             <WakaTimeComp />
         </div>
     </div>
@@ -113,6 +114,6 @@ onMounted(() => {
 
 <style scoped>
 .hob {
-    @apply border border-solid border-success p-1;
+    @apply border border-solid border-success p-1 flex-auto lg:flex-none;
 }
 </style>
