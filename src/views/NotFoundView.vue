@@ -22,7 +22,7 @@ import ArrowIcon from '../components/icons/ArrowIcon.vue';
                             >
                         </p>
                         <button class="btn back">
-                            <router-link to="/">Go to home</router-link>
+                            <router-link class="pr-14 lg:pr-10" to="/">Go to home</router-link>
                             <span
                                 class="flex items-center justify-center w-full h-full bg-white rounded-full max-w-9 max-h-9"
                                 ><arrow-icon class="w-4 h-4"></arrow-icon

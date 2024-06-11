@@ -127,6 +127,11 @@ const isActive = (routeName) => {
                             ><span class="text-primary">#</span>About-Me</router-link
                         >
                     </li>
+                    <li :class="{ active: isActive('/blog') }">
+                        <router-link to="/blog"
+                            ><span class="text-primary">#</span>Blog</router-link
+                        >
+                    </li>
                     <li :class="{ active: isActive('/contact') }">
                         <router-link to="/contact"
                             ><span class="text-primary">#</span>Contacts</router-link
@@ -206,6 +211,9 @@ const isActive = (routeName) => {
                     <router-link to="/about"
                         ><span class="text-primary">#</span>About-Me</router-link
                     >
+                </li>
+                <li :class="{ active: isActive('/blog') }">
+                    <router-link to="/blog"><span class="text-primary">#</span>Blog</router-link>
                 </li>
                 <li :class="{ active: isActive('/contact') }">
                     <router-link to="/contact"
