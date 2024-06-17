@@ -1,5 +1,5 @@
 <script setup>
-import contactComp from '../components/contactComponent/contactComp.vue';
+import ContactComp from '../components/contactComponent/ContactComp.vue';
 </script>
 <template>
     <!-- Contact header -->

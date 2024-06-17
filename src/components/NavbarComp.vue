@@ -128,8 +128,8 @@ const isActive = (routeName) => {
                         >
                     </li>
                     <li :class="{ active: isActive('/blog') }">
-                        <router-link to="/blog"
-                            ><span class="text-primary">#</span>Blog</router-link
+                        <a href="https://blog.axell.my.id" target="_blank"
+                            ><span class="text-primary">#</span>Blog</a
                         >
                     </li>
                     <li :class="{ active: isActive('/contact') }">
@@ -213,7 +213,9 @@ const isActive = (routeName) => {
                     >
                 </li>
                 <li :class="{ active: isActive('/blog') }">
-                    <router-link to="/blog"><span class="text-primary">#</span>Blog</router-link>
+                    <a href="https://blog.axell.my.id" target="_blank"
+                        ><span class="text-primary">#</span>Blog</a
+                    >
                 </li>
                 <li :class="{ active: isActive('/contact') }">
                     <router-link to="/contact"
