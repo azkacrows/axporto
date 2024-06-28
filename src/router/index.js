@@ -16,11 +16,11 @@ const router = createRouter({
         //     name: 'project',
         //     component: ProjectView,
         // },
-        // {
-        //     path: '/cert',
-        //     name: 'cert',
-        //     component: () => import('@/views/CertView.vue'),
-        // }
+        {
+            path: '/cert',
+            name: 'cert',
+            component: () => import('@/views/CertificationView.vue'),
+        },
         {
             path: '/about',
             name: 'about',
